@@ -1889,7 +1889,7 @@ end
 -- FAKE TEXT MAP
 -- ============================================================================
 local FakeTextMap = {
-    [999000] = "HUSSNAIN MOD MENU @DEEPER",
+    [999000] = "DEPPER MOD MENU @DEEPER",
     [999001] = "CUSTOM ESP MENU",
     [999002] = "CUSTOM AIMBOT MENU",
     [999003] = "EXTRA FEATURES",
